@@ -135,13 +135,14 @@ GROUP BY s.StoreName, s.SellingAreaSize ORDER BY SalesPerFoot DESC;""",
         }
     },
     "Fraud Detection": {
+        "csv": "fraud_data.csv",
         "queries": {
             "Impossible Travel Detection": {
                 "sql": """WITH TravelHistory AS (
     SELECT transaction_id, user_id, hour, country, 
            LAG(country) OVER(PARTITION BY user_id ORDER BY hour) AS prev_country,
            LAG(hour) OVER(PARTITION BY user_id ORDER BY hour) AS prev_hour
-    FROM read_csv_auto('fraud_data.csv', ignore_errors=True)
+    FROM 'fraud_data.csv'
 ),
 TimeCalc AS (
     SELECT *, (hour - prev_hour) AS hours_since_last_tx,
@@ -157,16 +158,72 @@ ORDER BY hours_since_last_tx ASC;""",
                 "sql": """WITH UserStats AS (
     SELECT *, AVG(amount) OVER(PARTITION BY user_id) AS user_avg,
            STDDEV(amount) OVER(PARTITION BY user_id) AS user_std
-    FROM read_csv_auto('fraud_data.csv', ignore_errors=True)
+    FROM 'fraud_data.csv'
 )
 SELECT *, (amount - user_avg) / NULLIF(user_std, 0) AS z_score
 FROM UserStats
 WHERE ABS(z_score) > 3 ORDER BY z_score DESC;""",
                 "insight": "Uses Z-Scores to find transactions that are statistical outliers based on individual user history."
+            },
+            "High Risk vs Global Average": {
+                "sql": """WITH Global_Avg_CTE AS (
+    SELECT AVG(device_risk_score) as platform_avg 
+    FROM 'fraud_data.csv'
+),
+User_Avg_CTE AS (
+    SELECT user_id, AVG(device_risk_score) as user_avg
+    FROM 'fraud_data.csv'
+    GROUP BY user_id
+)
+SELECT u.user_id, u.user_avg, g.platform_avg
+FROM User_Avg_CTE u
+CROSS JOIN Global_Avg_CTE g
+WHERE u.user_avg > g.platform_avg
+ORDER BY u.user_avg DESC;""",
+                "insight": "Cross-joins user metrics against platform benchmarks to identify high-risk segments."
+            },
+            "Rapid-Fire Transactions": {
+                "sql": """WITH CalcTime AS (
+    SELECT transaction_id, user_id, hour, 
+           LAG(hour) OVER (PARTITION BY user_id ORDER BY hour) AS prev_hour
+    FROM 'fraud_data.csv'
+)
+SELECT *, (hour - prev_hour) AS hour_diff
+FROM CalcTime
+WHERE (hour - prev_hour) = 0
+ORDER BY transaction_id DESC;""",
+                "insight": "Identifies potential bot behavior where multiple transactions occur within the same hour."
+            },
+            "Regional Top Spenders": {
+                "sql": """WITH RegionTopSpenders AS (
+    SELECT user_id, country, amount,
+           DENSE_RANK() OVER(PARTITION BY country ORDER BY amount DESC) as rank
+    FROM 'fraud_data.csv'
+)
+SELECT * FROM RegionTopSpenders WHERE rank <= 2 ORDER BY country, rank;""",
+                "insight": "Applies DENSE_RANK to find the top two highest spenders per country."
+            },
+            "Market Dominance Ratio": {
+                "sql": """WITH UserCategoryTotals AS (
+    SELECT user_id, transaction_type, SUM(amount) AS user_total_in_cat
+    FROM 'fraud_data.csv'
+    GROUP BY user_id, transaction_type
+),
+GlobalCategoryTotals AS (
+    SELECT *, SUM(user_total_in_cat) OVER(PARTITION BY transaction_type) AS grand_total_for_cat
+    FROM UserCategoryTotals
+)
+SELECT user_id, transaction_type, user_total_in_cat,
+       (user_total_in_cat * 100.0 / grand_total_for_cat) AS percentage_of_cat_volume
+FROM GlobalCategoryTotals
+WHERE percentage_of_cat_volume > 50
+ORDER BY percentage_of_cat_volume DESC;""",
+                "insight": "Finds users who control more than 50% of the total volume in a specific transaction category."
             }
         }
     },
     "Spotify Analytics": {
+        "csv": "spotify_tracks.csv",
         "queries": {
             "Vibe Category Market Share": {
                 "sql": """SELECT 
@@ -178,9 +235,87 @@ WHERE ABS(z_score) > 3 ORDER BY z_score DESC;""",
         ELSE 'Standard Radio Mix' 
     END AS audio_category,
     COUNT(*) AS total_songs
-FROM read_csv_auto('spotify_tracks.csv', ignore_errors=True)
+FROM 'spotify_tracks.csv'
 GROUP BY 1 ORDER BY 2 DESC;""",
                 "insight": "Segmenting tracks into custom labels using multi-feature audio thresholds."
+            },
+            "Artist Diversity Index": {
+                "sql": """WITH ArtistVibes AS (
+    SELECT artist_name,
+           CASE 
+               WHEN energy > 0.8 THEN 'High Energy'
+               WHEN energy < 0.4 THEN 'Chill'
+               ELSE 'Balanced'
+           END AS vibe
+    FROM 'spotify_tracks.csv'
+)
+SELECT artist_name, COUNT(DISTINCT vibe) AS diversity_score
+FROM ArtistVibes
+GROUP BY artist_name
+HAVING diversity_score > 1
+ORDER BY diversity_score DESC LIMIT 10;""",
+                "insight": "Ranks artists based on their musical range across different audio profiles."
+            },
+            "High-Performance Genres": {
+                "sql": """SELECT genre, AVG(popularity) AS avg_popularity, COUNT(*) AS count_tracks
+FROM 'spotify_tracks.csv'
+GROUP BY genre
+HAVING AVG(popularity) > 60 AND COUNT(*) > 100
+ORDER BY avg_popularity DESC;""",
+                "insight": "Filters for genres that achieve high popularity across a significant catalog size."
+            },
+            "Power Hour Intensity": {
+                "sql": """SELECT genre, COUNT(*) as count_tracks, AVG(energy) as avg_energy, AVG(danceability) as avg_danceability
+FROM 'spotify_tracks.csv'
+GROUP BY genre
+HAVING count_tracks > 7100
+ORDER BY avg_energy DESC;""",
+                "insight": "Analyzes correlation between energy and danceability for high-volume genres."
+            },
+            "Prolific Artists (Unique Albums)": {
+                "sql": """SELECT artist_name, COUNT(*) AS total_tracks, COUNT(DISTINCT album_name) AS unique_albums
+FROM 'spotify_tracks.csv'
+GROUP BY artist_name
+ORDER BY unique_albums DESC LIMIT 10;""",
+                "insight": "Compares track volume vs. unique album releases to identify the most prolific creators."
+            },
+            "Metal Genre Popularity": {
+                "sql": """SELECT artist_name, AVG(popularity) as avg_popularity
+FROM 'spotify_tracks.csv'
+WHERE genre = 'Metal'
+GROUP BY artist_name
+HAVING COUNT(*) > 5
+ORDER BY avg_popularity DESC LIMIT 10;""",
+                "insight": "Finds the highest-rated Metal artists with a statistically significant track count."
+            },
+            "Quiet-Power Profiles": {
+                "sql": """SELECT artist_name, AVG(energy) as avg_energy, AVG(loudness) as avg_loudness 
+FROM 'spotify_tracks.csv'
+GROUP BY artist_name 
+HAVING COUNT(*) >= 5 AND avg_energy > 0.8 AND avg_loudness < -15.0;""",
+                "insight": "Technical audit finding high-energy tracks with low recording decibels (Quiet Power)."
+            },
+            "Workout Warrior Tracks": {
+                "sql": """SELECT track_name, artist_name, energy, danceability
+FROM 'spotify_tracks.csv'
+WHERE energy > 0.9 AND danceability > 0.7
+ORDER BY energy DESC LIMIT 10;""",
+                "insight": "Filtering for tracks that meet the mathematical criteria for high-intensity exercise."
+            },
+            "Genre Popularity Gap": {
+                "sql": """SELECT genre, MAX(popularity) as most_popular, MIN(popularity) as least_popular, COUNT(*) as song_count
+FROM 'spotify_tracks.csv'
+GROUP BY genre
+ORDER BY song_count DESC LIMIT 10;""",
+                "insight": "Measures the range of popularity within the most common music genres."
+            },
+            "Duplicate Track Audit": {
+                "sql": """SELECT track_name, artist_name, COUNT(*) AS occurrence_count
+FROM 'spotify_tracks.csv'
+GROUP BY track_name, artist_name
+HAVING occurrence_count > 1
+ORDER BY occurrence_count DESC LIMIT 10;""",
+                "insight": "A data cleaning query to identify redundant records in the Spotify database."
             }
         }
     }
