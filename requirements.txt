@@ -1,0 +1,5 @@
+streamlistreamlit
+duckdb
+pandast
+duckdb
+pandas
