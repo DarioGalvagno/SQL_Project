@@ -1,0 +1,675 @@
+﻿GeographyKey,ContinentName,RegionCountryName
+1,Asia,
+2,Europe,
+3,North America,
+269,Asia,Armenia
+270,Oceania,Australia
+271,Asia,Bhutan
+272,Asia,China
+273,Asia,India
+274,Asia,Iran
+275,Asia,Japan
+276,Asia,Kyrgyzstan
+277,Asia,Pakistan
+278,Asia,Singapore
+279,Asia,South Korea
+280,Asia,Syria
+281,Asia,Taiwan
+282,Asia,Thailand
+283,Asia,Turkmenistan
+284,Europe,Denmark
+285,Europe,France
+286,Europe,Germany
+287,Europe,Greece
+288,Europe,the Netherlands
+289,Europe,Ireland
+290,Europe,Italy
+291,Europe,Malta
+292,Europe,Poland
+293,Europe,Portugal
+294,Europe,Romania
+295,Europe,Russia
+296,Europe,Slovenia
+297,Europe,Spain
+298,Europe,Sweden
+299,Europe,Switzerland
+300,Europe,United Kingdom
+301,North America,Canada
+302,North America,United States
+303,Asia,Turkmenistan
+304,Asia,Armenia
+305,Asia,China
+306,Asia,Japan
+307,Asia,Kyrgyzstan
+308,Asia,Syria
+309,Asia,China
+310,Asia,Japan
+311,Asia,China
+312,Asia,Pakistan
+313,Asia,Japan
+314,Asia,Japan
+315,Asia,Thailand
+316,Asia,India
+317,Oceania,Australia
+318,Asia,India
+319,Oceania,Australia
+320,Asia,South Korea
+321,Asia,China
+322,Asia,Singapore
+323,Asia,Taiwan
+324,Asia,Iran
+325,Asia,Bhutan
+326,Asia,Japan
+327,Asia,India
+328,Asia,China
+329,Asia,South Korea
+330,Europe,France
+331,Europe,France
+332,Europe,Germany
+333,Europe,Germany
+334,Europe,Germany
+335,Europe,Switzerland
+336,Europe,Romania
+337,Europe,Greece
+338,Europe,United Kingdom
+339,Europe,Germany
+340,Europe,France
+341,Europe,Ireland
+342,Europe,Portugal
+343,Europe,Slovenia
+344,Europe,Italy
+345,Europe,Spain
+346,Europe,France
+347,Europe,Russia
+348,Europe,Russia
+349,Europe,the Netherlands
+350,Europe,Germany
+351,Europe,Germany
+352,Europe,Russia
+353,Europe,France
+354,Europe,France
+355,Europe,Italy
+356,Europe,Italy
+357,Europe,Germany
+358,Europe,France
+359,Europe,Italy
+360,Europe,United Kingdom
+361,Europe,Denmark
+362,Europe,Sweden
+363,Europe,Malta
+364,Europe,Italy
+365,Europe,Poland
+366,North America,United States
+367,North America,Canada
+368,North America,Canada
+369,North America,United States
+370,North America,United States
+371,North America,United States
+372,North America,United States
+373,North America,United States
+374,North America,United States
+375,North America,United States
+376,North America,United States
+377,North America,Canada
+378,North America,Canada
+379,North America,United States
+380,North America,United States
+381,North America,United States
+382,North America,United States
+383,North America,United States
+384,Oceania,Australia
+385,Europe,Germany
+386,North America,United States
+387,Europe,France
+388,Europe,Germany
+389,Europe,France
+390,North America,United States
+391,Europe,France
+392,North America,United States
+393,Europe,France
+394,North America,United States
+395,Europe,France
+396,North America,United States
+397,North America,United States
+398,Europe,France
+399,Europe,France
+400,Europe,France
+401,North America,United States
+402,Europe,France
+403,Europe,France
+404,Europe,Germany
+405,Europe,France
+406,North America,United States
+407,Oceania,Australia
+408,North America,United States
+409,North America,United States
+410,Europe,France
+411,North America,United States
+412,Oceania,Australia
+413,Europe,France
+414,Europe,France
+415,North America,United States
+416,Europe,France
+417,North America,United States
+418,Europe,France
+419,Europe,Germany
+420,Oceania,Australia
+421,North America,United States
+422,North America,United States
+423,Europe,United Kingdom
+424,North America,United States
+425,Oceania,Australia
+426,Europe,United Kingdom
+430,North America,United States
+431,North America,United States
+432,North America,United States
+433,North America,United States
+434,North America,United States
+435,Europe,France
+436,North America,United States
+437,Europe,Germany
+438,North America,United States
+439,Europe,United Kingdom
+440,North America,United States
+441,North America,United States
+442,North America,United States
+443,North America,United States
+444,North America,United States
+445,North America,United States
+446,North America,Canada
+447,Europe,United Kingdom
+448,North America,United States
+449,Europe,United Kingdom
+450,North America,United States
+451,North America,United States
+452,North America,United States
+453,North America,United States
+454,Europe,France
+455,North America,United States
+456,North America,Canada
+457,North America,United States
+458,North America,United States
+459,Europe,France
+460,North America,United States
+461,North America,United States
+462,North America,United States
+463,North America,United States
+464,North America,United States
+465,North America,United States
+466,North America,United States
+467,North America,Canada
+468,Oceania,Australia
+469,North America,United States
+470,North America,United States
+471,Oceania,Australia
+472,North America,United States
+473,Oceania,Australia
+474,Europe,Germany
+475,North America,United States
+476,Europe,France
+478,Oceania,Australia
+479,North America,United States
+480,Europe,Germany
+481,Europe,United Kingdom
+482,Europe,Germany
+483,Europe,Germany
+485,Europe,United Kingdom
+486,Europe,United Kingdom
+487,Oceania,Australia
+488,North America,United States
+490,North America,Canada
+491,Europe,Germany
+492,Oceania,Australia
+493,Oceania,Australia
+494,North America,United States
+495,North America,United States
+496,Europe,Germany
+497,Europe,United Kingdom
+498,Europe,United Kingdom
+499,North America,Canada
+500,North America,United States
+501,Europe,United Kingdom
+502,North America,United States
+503,Europe,France
+504,Europe,France
+505,North America,United States
+506,Europe,United Kingdom
+507,North America,United States
+508,North America,United States
+509,Oceania,Australia
+510,Oceania,Australia
+511,North America,Canada
+512,Oceania,Australia
+513,Europe,Germany
+515,Europe,Germany
+516,North America,United States
+517,Europe,Germany
+518,Oceania,Australia
+519,Oceania,Australia
+520,North America,United States
+521,Europe,Germany
+522,North America,United States
+523,North America,United States
+524,Europe,France
+525,Europe,United Kingdom
+527,North America,United States
+528,Europe,France
+529,Europe,France
+530,Europe,France
+531,Oceania,Australia
+532,Europe,United Kingdom
+533,Europe,Germany
+534,Oceania,Australia
+535,North America,United States
+536,North America,United States
+537,North America,United States
+538,North America,United States
+539,Europe,France
+540,Europe,France
+541,Europe,United Kingdom
+542,Europe,Germany
+543,Europe,France
+544,Europe,France
+545,Europe,France
+546,North America,United States
+547,North America,United States
+548,Europe,France
+549,Oceania,Australia
+550,North America,Canada
+551,North America,United States
+552,North America,United States
+553,Oceania,Australia
+554,Oceania,Australia
+555,Europe,Germany
+556,Europe,Germany
+557,Europe,France
+558,Oceania,Australia
+559,North America,United States
+560,North America,United States
+561,Oceania,Australia
+562,North America,Canada
+563,Europe,France
+564,Europe,France
+565,Europe,United Kingdom
+566,North America,United States
+567,Europe,United Kingdom
+568,Oceania,Australia
+569,Europe,Germany
+570,North America,United States
+571,North America,Canada
+572,Europe,United Kingdom
+573,North America,United States
+574,Europe,United Kingdom
+575,North America,United States
+576,Europe,United Kingdom
+577,North America,United States
+578,North America,United States
+579,North America,United States
+580,North America,United States
+581,North America,United States
+582,North America,United States
+583,North America,United States
+584,North America,United States
+585,Europe,United Kingdom
+586,Europe,Germany
+587,Europe,United Kingdom
+588,Europe,United Kingdom
+590,Europe,Germany
+591,Europe,France
+592,Europe,France
+593,North America,United States
+594,North America,United States
+595,Europe,Germany
+596,Oceania,Australia
+597,North America,United States
+598,North America,Canada
+599,Oceania,Australia
+600,North America,United States
+601,North America,United States
+602,North America,United States
+603,North America,United States
+604,North America,United States
+605,North America,United States
+606,North America,United States
+607,North America,United States
+608,Europe,United Kingdom
+609,North America,United States
+610,North America,United States
+611,North America,United States
+612,North America,United States
+613,Oceania,Australia
+614,North America,United States
+615,Europe,France
+616,Europe,France
+617,North America,United States
+618,North America,United States
+619,North America,United States
+620,North America,United States
+621,Europe,France
+622,Europe,France
+623,Europe,Germany
+624,Europe,France
+625,North America,United States
+626,Europe,Germany
+627,North America,United States
+628,Oceania,Australia
+629,Europe,Germany
+631,North America,United States
+632,Oceania,Australia
+633,North America,United States
+634,Oceania,Australia
+635,Europe,Germany
+637,Oceania,Australia
+638,Europe,United Kingdom
+639,Europe,Germany
+640,Europe,Germany
+641,Europe,Germany
+642,North America,United States
+643,North America,United States
+644,North America,United States
+645,North America,United States
+646,Oceania,Australia
+647,North America,Canada
+648,Oceania,Australia
+649,Europe,Germany
+650,Europe,France
+651,Europe,United Kingdom
+652,North America,United States
+653,North America,United States
+654,Europe,United Kingdom
+655,Oceania,Australia
+656,Oceania,Australia
+657,Europe,France
+658,North America,United States
+659,Europe,United Kingdom
+660,North America,United States
+661,Europe,France
+662,Europe,Germany
+664,Europe,Germany
+665,North America,Canada
+666,Europe,United Kingdom
+667,North America,United States
+668,North America,Canada
+669,Oceania,Australia
+670,North America,United States
+671,North America,Canada
+672,Europe,France
+673,Europe,United Kingdom
+674,Europe,Germany
+675,North America,Canada
+676,Europe,United Kingdom
+677,North America,United States
+678,North America,United States
+679,Oceania,Australia
+680,Oceania,Australia
+681,Europe,France
+682,North America,Canada
+683,Europe,Germany
+684,Europe,France
+685,Europe,France
+686,North America,United States
+687,Europe,Germany
+688,North America,United States
+689,North America,United States
+690,North America,United States
+691,North America,United States
+692,Oceania,Australia
+693,North America,United States
+694,North America,United States
+695,North America,Canada
+696,Europe,Germany
+697,Oceania,Australia
+698,Europe,United Kingdom
+699,Oceania,Australia
+700,Europe,France
+701,North America,Canada
+702,Europe,France
+703,North America,United States
+704,Europe,United Kingdom
+705,Europe,United Kingdom
+706,Oceania,Australia
+707,North America,United States
+708,Asia,Turkmenistan
+709,Asia,Thailand
+710,Asia,China
+711,Asia,Kyrgyzstan
+712,Asia,South Korea
+713,Oceania,Australia
+714,Asia,Syria
+715,Asia,China
+716,Asia,China
+717,Asia,Pakistan
+718,Asia,India
+719,Asia,Japan
+720,Asia,Japan
+721,Asia,India
+722,Asia,Japan
+723,Asia,India
+724,Asia,Japan
+725,Asia,Japan
+726,Asia,South Korea
+727,Asia,China
+728,Asia,Singapore
+729,Asia,Taiwan
+730,Asia,Iran
+731,Asia,Bhutan
+732,Asia,Japan
+733,Asia,China
+734,Asia,Armenia
+735,Asia,Japan
+736,Europe,the Netherlands
+737,Europe,Greece
+738,Europe,United Kingdom
+739,Europe,Germany
+740,Europe,Switzerland
+741,Europe,Romania
+742,Europe,United Kingdom
+743,Europe,United Kingdom
+745,Europe,Denmark
+746,Europe,Ireland
+747,Europe,Germany
+748,Europe,United Kingdom
+749,Europe,Italy
+750,Europe,Germany
+751,Europe,United Kingdom
+752,Europe,Germany
+753,Europe,United Kingdom
+754,Europe,Germany
+755,Europe,United Kingdom
+756,Europe,Germany
+757,Europe,Portugal
+758,Europe,Slovenia
+759,Europe,France
+760,Europe,Spain
+761,Europe,United Kingdom
+762,Europe,France
+763,Europe,Italy
+764,Europe,Russia
+765,Europe,Germany
+766,Europe,France
+767,Europe,France
+768,Europe,Russia
+769,Europe,Germany
+770,Europe,Germany
+771,Europe,Italy
+772,Europe,Russia
+773,Europe,Sweden
+774,Europe,United Kingdom
+775,Europe,France
+776,Europe,Italy
+777,Europe,France
+778,Europe,Malta
+779,Europe,Italy
+780,Europe,Poland
+781,Europe,United Kingdom
+782,North America,United States
+783,North America,United States
+784,North America,United States
+785,North America,United States
+786,North America,United States
+787,North America,United States
+788,North America,United States
+789,North America,United States
+790,North America,United States
+791,North America,United States
+792,North America,United States
+793,North America,United States
+794,North America,United States
+795,North America,United States
+796,North America,United States
+797,North America,United States
+798,North America,United States
+799,North America,United States
+800,North America,United States
+801,North America,United States
+802,North America,United States
+803,North America,United States
+804,North America,United States
+805,North America,United States
+806,North America,United States
+807,North America,United States
+808,North America,United States
+809,North America,United States
+810,North America,United States
+811,North America,United States
+812,North America,United States
+813,North America,United States
+814,North America,United States
+815,North America,United States
+816,North America,United States
+817,North America,United States
+818,North America,United States
+819,North America,United States
+820,North America,United States
+821,North America,United States
+822,North America,United States
+823,North America,United States
+824,North America,United States
+825,North America,United States
+826,North America,United States
+827,North America,United States
+828,North America,United States
+829,North America,United States
+830,North America,United States
+831,North America,United States
+832,North America,United States
+833,North America,United States
+834,North America,United States
+835,North America,United States
+836,North America,United States
+837,North America,United States
+838,North America,United States
+839,North America,United States
+840,North America,United States
+841,North America,United States
+842,North America,United States
+843,North America,United States
+844,North America,United States
+845,North America,United States
+846,North America,United States
+847,North America,United States
+848,North America,United States
+849,North America,United States
+850,North America,United States
+851,North America,United States
+852,North America,United States
+853,North America,United States
+854,North America,United States
+855,North America,United States
+856,North America,United States
+857,North America,United States
+858,North America,United States
+859,North America,United States
+860,North America,United States
+861,North America,United States
+862,North America,United States
+863,North America,United States
+864,North America,United States
+865,North America,United States
+866,North America,United States
+867,North America,United States
+868,North America,United States
+869,North America,United States
+870,North America,United States
+871,North America,United States
+872,North America,United States
+873,North America,United States
+874,North America,United States
+875,North America,United States
+876,North America,United States
+877,North America,United States
+878,North America,United States
+879,North America,United States
+880,North America,United States
+881,North America,Canada
+882,North America,United States
+883,North America,United States
+884,North America,United States
+885,North America,United States
+886,North America,United States
+887,North America,United States
+888,North America,United States
+889,North America,United States
+890,North America,United States
+891,North America,United States
+892,North America,United States
+893,North America,United States
+894,North America,United States
+895,North America,United States
+896,North America,United States
+897,North America,United States
+898,North America,United States
+899,North America,United States
+900,North America,United States
+901,North America,United States
+902,North America,United States
+903,North America,Canada
+904,North America,United States
+905,North America,United States
+906,North America,United States
+907,North America,United States
+908,North America,United States
+909,North America,United States
+910,North America,United States
+911,North America,United States
+912,North America,United States
+913,North America,United States
+914,North America,United States
+915,North America,United States
+916,North America,United States
+917,North America,United States
+918,North America,United States
+919,North America,United States
+920,North America,United States
+921,North America,United States
+922,North America,United States
+923,North America,United States
+924,North America,United States
+925,North America,United States
+926,North America,United States
+927,North America,United States
+928,North America,United States
+929,North America,United States
+930,North America,United States
+931,North America,United States
+932,North America,United States
+933,North America,United States
+934,North America,United States
+935,North America,United States
+936,North America,United States
+937,North America,United States
+938,North America,United States
+939,North America,United States
+940,North America,United States
+941,North America,United States
+942,North America,Canada
+943,North America,United States
+944,North America,United States
+945,North America,United States
+946,North America,United States
+947,North America,United States
+948,North America,United States
+949,North America,United States
+950,North America,United States
+951,North America,United States
+952,North America,United States

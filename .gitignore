@@ -1,0 +1,22 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# MacOS/Windows junk
+.DS_Store
+Thumbs.db
+
+# IDE Folders (PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Streamlit specific (optional)
+.streamlit/
+
+Sql_project.py
