@@ -436,7 +436,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 435,Adventure Works Desktop PC1.60 ED160 White,"1.60GHz dual processor, 1GB DDR2 memory, 30GB 5400RPM hard drive",17,Adventure Works,Adventure Works,1,Economy,8,White,,,137.63,269.95
 436,Adventure Works Desktop PC1.80 ED180 White,"1.80GHz dual processor, 1GB DDR2 memory, 320GB 5400RPM hard drive",17,Adventure Works,Adventure Works,2,Regular,8,White,,,188.13,369
 437,Adventure Works Desktop PC1.80 ED182 White,"1.80GHz dual processor, 4GB DDR2 memories, 400GB 7200RPM hard drive",17,Adventure Works,Adventure Works,2,Regular,8,White,,,254.86,499.9
-438,WWI Desktop PC2.33 X2330 Silver,"2.33GHz dual processor, 750GB 7200RPM hard drive, 19” widescreen LCD monitors",17,Wide World Importers,Wide World Importers,3,Deluxe,7,Silver,,,304.48,919
+438,WWI Desktop PC2.33 X2330 Silver,"2.33GHz dual processor, 750GB 7200RPM hard drive, 19Â” widescreen LCD monitors",17,Wide World Importers,Wide World Importers,3,Deluxe,7,Silver,,,304.48,919
 439,WWI Desktop PC2.30 M2300 Brown,"2.3GHz dual processor, 4 GB DDR2 SDRAM memories, 4MB L2 Cache",17,Wide World Importers,Wide World Importers,2,Regular,4,Brown,,,257.06,559
 440,WWI Desktop PC1.60 E1600 Silver,"1.60GHz dual processor, 2GB DDR2 memories, 30GB 5400RPM hard drive",17,Wide World Importers,Wide World Importers,1,Economy,7,Silver,,,112.14,219.95
 441,WWI Desktop PC1.80 E1800 Brown,"1.80GHz dual processor, 2GB DDR2 memories, 320GB 5400RPM hard drive",17,Wide World Importers,Wide World Importers,1,Economy,4,Brown,,,117.21,229.9
@@ -459,7 +459,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 458,WWI Desktop PC1.80 E1800 White,"1.80GHz dual processor, 2GB DDR2 memories, 320GB 5400RPM hard drive",17,Wide World Importers,Wide World Importers,1,Economy,8,White,,,117.21,229.9
 459,WWI Desktop PC1.80 E1801 White,"1.80GHz dual processor, 4GB DDR2 Memories, 400GB 7200RPM hard drive",17,Wide World Importers,Wide World Importers,1,Economy,8,White,,,137.6,269.9
 460,WWI Desktop PC1.80 E1802 White,"1.80GHz dual processor, 4GB DDR2 memory, 500GB 7200RPM hard drive",17,Wide World Importers,Wide World Importers,1,Economy,8,White,,,152.9,299.9
-461,Proseware LCD24 X300 Black,"24 inches HD display, 160° horizontal and vertical viewing angles",18,"Proseware, Inc.",Proseware,3,Deluxe,2,Black,,13.2,271.35,819
+461,Proseware LCD24 X300 Black,"24 inches HD display, 160Â° horizontal and vertical viewing angles",18,"Proseware, Inc.",Proseware,3,Deluxe,2,Black,,13.2,271.35,819
 462,Proseware LCD24W X300 Black,"24 widescreen HD display, 1920 x 1200 maximum resolutions",18,"Proseware, Inc.",Proseware,3,Deluxe,2,Black,,10.8,287.92,869
 463,Proseware LCD22 M2000 Black,"22"" screen LCD, Resolution -1680 x 1050",18,"Proseware, Inc.",Proseware,2,Regular,2,Black,,13.2,205.09,619
 464,Proseware LCD22W M2001 Black,"22"" wide screen LCD, 0.285mm x 0.285mm pixel pitch, 300cd/m2 (typical) brightness",18,"Proseware, Inc.",Proseware,2,Regular,2,Black,,13.2,224.97,679
@@ -469,11 +469,11 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 468,Proseware LCD19W M100 Black,19 inches widescreen LCD monitor 300cd/m2 (typical) brightness,18,"Proseware, Inc.",Proseware,2,Regular,2,Black,,10.8,82.32,179
 469,Proseware LCD17 E200 Black,"Size/Type: 17"" TFT LCD, maximum resolution: 1280 x 1024, response time: 5ms",18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,50.47,99
 470,Proseware LCD17W E202 Black,17 inches widescreen LCD monitor 300cd/m2 (typical) brightness,18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,65.77,129
-471,Proseware LCD15 E103 Black,"Wide viewing angle of 100° vertical and 120° horizontal, dot pitch: 0.297 mm pixel pitch",18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,50.47,99
+471,Proseware LCD15 E103 Black,"Wide viewing angle of 100Â° vertical and 120Â° horizontal, dot pitch: 0.297 mm pixel pitch",18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,50.47,99
 472,Proseware CRT19 E201 Black,Reduces VLF/ELF radiation by up to 99.5%,18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,35.18,69
 473,Proseware CRT17 E104 Black,Safely prevents static while eliminating up to 95% of screen glare,18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,30.08,59
 474,Proseware CRT15 E10 Black,Reduces VLF/ELF radiation by up to 99.5%,18,"Proseware, Inc.",Proseware,1,Economy,2,Black,,10.8,24.98,49
-475,Proseware LCD24 X300 White,"24 Inch HD display, 160° horizontal and vertical viewing angles",18,"Proseware, Inc.",Proseware,3,Deluxe,8,White,,10.4,271.35,819
+475,Proseware LCD24 X300 White,"24 Inch HD display, 160Â° horizontal and vertical viewing angles",18,"Proseware, Inc.",Proseware,3,Deluxe,8,White,,10.4,271.35,819
 476,Proseware LCD24W X300 White,"24 widescreen HD display, 1920 x 1200 maximum resolution",18,"Proseware, Inc.",Proseware,3,Deluxe,8,White,,10.4,287.92,869
 477,Proseware LCD22 M2000 White,"22"" Screen LCD, resolution - 1680 x 1050",18,"Proseware, Inc.",Proseware,2,Regular,8,White,,10.4,205.09,619
 478,Proseware LCD22W M2001 White,"22"" widescreen LCD, 0.285mm x 0.285mm pixel pitch, 300cd/m2 (typical) brightness",18,"Proseware, Inc.",Proseware,2,Regular,8,White,,10.4,224.97,679
@@ -483,11 +483,11 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 482,Proseware LCD19W M100 White,19 inches widescreen LCD monitor 300cd/m2 (typical) brightness,18,"Proseware, Inc.",Proseware,2,Regular,8,White,,10.4,82.32,179
 483,Proseware LCD17 E200 White,"Size/Type: 17"" TFT LCD, maximum resolution: 1280 x 1024, response time: 5ms",18,"Proseware, Inc.",Proseware,1,Economy,8,White,,10.4,50.47,99
 484,Proseware LCD17W E202 White,17 inches widescreen LCD monitor 300cd/m2 (typical) brightness,18,"Proseware, Inc.",Proseware,1,Economy,8,White,,10.4,65.77,129
-485,Proseware LCD15 E103 White,"Wide viewing angle of 100° vertical and 120° horizontal, dot pitch: 0.297 mm pixel pitch",18,"Proseware, Inc.",Proseware,1,Economy,8,White,,10.4,50.47,99
+485,Proseware LCD15 E103 White,"Wide viewing angle of 100Â° vertical and 120Â° horizontal, dot pitch: 0.297 mm pixel pitch",18,"Proseware, Inc.",Proseware,1,Economy,8,White,,10.4,50.47,99
 486,Proseware CRT19 E201 White,Reduces VLF/ELF radiation by up to 99.5%,18,"Proseware, Inc.",Proseware,1,Economy,8,White,,10.4,35.18,69
 487,Proseware CRT17 E104 White,Safely prevents static while eliminating up to 95% of screen glare,18,"Proseware, Inc.",Proseware,1,Economy,8,White,,10.4,30.08,59
 488,Proseware CRT15 E10 White,Reduces VLF/ELF radiation by up to 99.5%,18,"Proseware, Inc.",Proseware,1,Economy,8,White,,9.5,24.98,49
-489,Adventure Works LCD24 X300 Black,"24 Inch HD display, 160° horizontal and vertical viewing angles",18,Adventure Works,Adventure Works,3,Deluxe,2,Black,,9.5,271.35,819
+489,Adventure Works LCD24 X300 Black,"24 Inch HD display, 160Â° horizontal and vertical viewing angles",18,Adventure Works,Adventure Works,3,Deluxe,2,Black,,9.5,271.35,819
 490,Adventure Works LCD24W X300 Black,"24 widescreen HD display, 1920 x 1200 maximum resolutions",18,Adventure Works,Adventure Works,3,Deluxe,2,Black,,10.4,287.92,869
 491,Adventure Works LCD22 M200 Black,"22"" Screen LCD, resolution - 1680 x 1050",18,Adventure Works,Adventure Works,2,Regular,2,Black,,10.4,205.09,619
 492,Adventure Works LCD22W M200 Black,"22"" widescreen LCD, 0.285mm x 0.285mm pixel pitch, 300cd/m2 (typical) brightness",18,Adventure Works,Adventure Works,2,Regular,2,Black,,10.4,224.97,679
@@ -497,11 +497,11 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 496,Adventure Works LCD19W M100 Black,19 inches widescreen LCD monitor 300cd/m2 (typical) brightness,18,Adventure Works,Adventure Works,2,Regular,2,Black,,10.8,82.32,179
 497,Adventure Works LCD17 E200 Black,"Size/Type: 17"" TFT LCD, maximum resolution: 1280 x 1024, response Time: 5ms",18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,50.47,99
 498,Adventure Works LCD17W E203 Black,17 inches widescreen LCD monitor 300cd/m2 (typical) brightness,18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,65.77,129
-499,Adventure Works LCD15 E100 Black,"Wide viewing angle of 100° vertical and 120° horizontal, dot pitch: 0.297 mm pixel pitch",18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,50.47,99
+499,Adventure Works LCD15 E100 Black,"Wide viewing angle of 100Â° vertical and 120Â° horizontal, dot pitch: 0.297 mm pixel pitch",18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,50.47,99
 500,Adventure Works CRT19 E10 Black,Reduces VLF/ELF radiation by up to 99.5%,18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,22.86,69
 501,Adventure Works CRT17 E105 Black,Safely prevents static while eliminating up to 95% of screen glare,18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,30.08,59
 502,Adventure Works CRT15 E101 Black,Reduces VLF/ELF radiation by up to 99.5%,18,Adventure Works,Adventure Works,1,Economy,2,Black,,10.8,29.82,90
-503,Adventure Works LCD24 X300 White,"24 inches HD display, 160° horizontal and vertical viewing angles",18,Adventure Works,Adventure Works,3,Deluxe,8,White,,10.8,271.35,819
+503,Adventure Works LCD24 X300 White,"24 inches HD display, 160Â° horizontal and vertical viewing angles",18,Adventure Works,Adventure Works,3,Deluxe,8,White,,10.8,271.35,819
 504,Adventure Works LCD24W X300 White,"24 inches widescreen HD display, 1920 x 1200 maximum resolutions",18,Adventure Works,Adventure Works,3,Deluxe,8,White,,10.8,287.92,869
 505,Adventure Works LCD22 M200 White,"22"" screen LCD, resolution - 1680 x 1050",18,Adventure Works,Adventure Works,2,Regular,8,White,,30,205.09,619
 506,Adventure Works LCD22W M200 White,"22"" wide screen LCD, 0.285mm x 0.285mm pixel pitch, 300cd/m2 (typical) brightness",18,Adventure Works,Adventure Works,2,Regular,8,White,,10.8,224.97,679
@@ -511,11 +511,11 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 510,Adventure Works LCD19W M100 White,"19 inches widescreen LCD monitor, 300cd/m2 (typical) brightness",18,Adventure Works,Adventure Works,2,Regular,8,White,,15.2,82.32,179
 511,Adventure Works LCD17 E200 White,"Size/Type: 17"" TFT LCD, maximum resolution: 1280 x 1024. response time: 5ms",18,Adventure Works,Adventure Works,1,Economy,8,White,,10.8,50.47,99
 512,Adventure Works LCD17W E203 White,"17 inches widescreen LCD monitor, 300cd/m2 (typical) brightness",18,Adventure Works,Adventure Works,1,Economy,8,White,,11.9,65.77,129
-513,Adventure Works LCD15 E100 White,"Wide viewing angle of 100° vertical and 120° horizontal, dot pitch: 0.297 mm pixel pitch",18,Adventure Works,Adventure Works,1,Economy,8,White,,10.8,50.47,99
+513,Adventure Works LCD15 E100 White,"Wide viewing angle of 100Â° vertical and 120Â° horizontal, dot pitch: 0.297 mm pixel pitch",18,Adventure Works,Adventure Works,1,Economy,8,White,,10.8,50.47,99
 514,Adventure Works CRT19 E10 White,Reduces VLF/ELF radiation by up to 99.5%,18,Adventure Works,Adventure Works,1,Economy,8,White,,10.8,22.86,69
 515,Adventure Works CRT17 E105 White,Safely prevents static while eliminating up to 95% of screen glare,18,Adventure Works,Adventure Works,1,Economy,8,White,,11.9,30.08,59
 516,Adventure Works CRT15 E101 White,Reduces VLF/ELF radiation by up to 99.5%,18,Adventure Works,Adventure Works,1,Economy,8,White,,22.2,29.82,90
-517,WWI LCD24 X300 Black,"24 Inches HD display, 160° horizontal and vertical viewing angles",18,Wide World Importers,Wide World Importers,3,Deluxe,2,Black,,15.2,271.35,819
+517,WWI LCD24 X300 Black,"24 Inches HD display, 160Â° horizontal and vertical viewing angles",18,Wide World Importers,Wide World Importers,3,Deluxe,2,Black,,15.2,271.35,819
 518,WWI LCD24W X300 Black,"24 widescreen HD display, 1920 x 1200 maximum resolutions",18,Wide World Importers,Wide World Importers,3,Deluxe,2,Black,,10.4,287.92,869
 519,WWI LCD22 M2002 Black,"22"" Screen LCD, resolution - 1680 x 1050",18,Wide World Importers,Wide World Importers,2,Regular,2,Black,,10.8,205.09,619
 520,WWI LCD22W M2003 Black,"22"" widescreen LCD, 0.285mm x 0.285mm pixel pitch, 300cd/m2 (typical) brightness",18,Wide World Importers,Wide World Importers,2,Regular,2,Black,,10.8,224.97,679
@@ -525,8 +525,8 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 524,WWI LCD19W M100 Black,"19 inches widescreen LCD monitor, 300cd/m2 (typical) brightness",18,Wide World Importers,Wide World Importers,2,Regular,2,Black,,9.5,82.32,179
 525,WWI LCD17 E200 Black,"Size/Type: 17"" TFT LCD, maximum resolution: 1280 x 1024, response time: 5ms",18,Wide World Importers,Wide World Importers,1,Economy,2,Black,,10.4,50.47,99
 526,WWI LCD17W E200 Black,"17 inches widescreen LCD monitor, 300cd/m2 (typical) brightness",18,Wide World Importers,Wide World Importers,1,Economy,2,Black,,9.5,65.77,129
-527,WWI CRT17 E106 Black,"Wide viewing angle of 100° vertical and 120° horizontal, dot pitch: 0.297 mm pixel pitch",18,Wide World Importers,Wide World Importers,1,Economy,2,Black,,10.4,50.47,99
-528,WWI LCD24 X300 White,"24 inches HD display, 160° horizontal and vertical viewing angles",18,Wide World Importers,Wide World Importers,3,Deluxe,8,White,,10.4,271.35,819
+527,WWI CRT17 E106 Black,"Wide viewing angle of 100Â° vertical and 120Â° horizontal, dot pitch: 0.297 mm pixel pitch",18,Wide World Importers,Wide World Importers,1,Economy,2,Black,,10.4,50.47,99
+528,WWI LCD24 X300 White,"24 inches HD display, 160Â° horizontal and vertical viewing angles",18,Wide World Importers,Wide World Importers,3,Deluxe,8,White,,10.4,271.35,819
 529,WWI LCD24W X300 White,"24 widescreen HD display, 1920 x 1200 maximum resolution",18,Wide World Importers,Wide World Importers,3,Deluxe,8,White,,9.5,287.92,869
 530,WWI LCD22 M2002 White,"22"" screen LCD, resolution - 1680 x 1050",18,Wide World Importers,Wide World Importers,2,Regular,8,White,,10.4,205.09,619
 531,WWI LCD22W M2003 White,"22"" widescreen LCD, 0.285mm x 0.285mm pixel pitch, 300cd/m2 (typical) brightness",18,Wide World Importers,Wide World Importers,2,Regular,8,White,,10.4,224.97,679
@@ -536,7 +536,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 535,WWI LCD19W M100 White,"19 inches widescreen LCD monitor, 300cd/m2 (typical) brightness",18,Wide World Importers,Wide World Importers,2,Regular,8,White,,10.4,82.32,179
 536,WWI LCD17 E205 White,"Size/Type: 17"" TFT LCD, maximum resolution: 1280 x 1024, response time: 5ms",18,Wide World Importers,Wide World Importers,1,Economy,8,White,,10.4,50.47,99
 537,WWI LCD17W E200 White,"17 inch widescreen LCD monitor, 300cd/m2 (typical) brightness",18,Wide World Importers,Wide World Importers,1,Economy,8,White,,10.8,65.77,129
-538,WWI CRT17 E106 White,"Wide viewing angle of 100° vertical and 120° horizontal, dot pitch: 0.297 mm pixel pitch",18,Wide World Importers,Wide World Importers,1,Economy,8,White,,10.8,50.47,99
+538,WWI CRT17 E106 White,"Wide viewing angle of 100Â° vertical and 120Â° horizontal, dot pitch: 0.297 mm pixel pitch",18,Wide World Importers,Wide World Importers,1,Economy,8,White,,10.8,50.47,99
 539,Proseware Projector 1080p LCD86 Black,"1080p high definition projector, 1200 ANSI Lumens, 14,000:1 contrast ratio, 2 HDMI inputs",19,"Proseware, Inc.",Proseware,3,Deluxe,2,Black,9.5 x 11.7 x 4.3,6.9,760.38,2295
 540,Proseware Projector 1080p DLP86 Black,"1920 x 1080p pixel resolution, HDTV 1080p native resolution, 8000:1 contrast ratio",19,"Proseware, Inc.",Proseware,3,Deluxe,2,Black,12.7 x 13.5 x 5.5,10.6,827.97,2499
 541,Proseware Projector 720p LCD56 Black,"720p High Definition performance with 10,000:1 contrast ratio.",19,"Proseware, Inc.",Proseware,2,Regular,2,Black,9.6 x 12.2 x 3.9,6.5,321.44,699
@@ -943,7 +943,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 942,SV PCI Network Adapter E904 Silver,Easy migration to faster networks as current 10/100 Mbps networks move to Gigabit,22,Southridge Video,Southridge Video,1,Economy,7,Silver,,,21.41,41.99
 943,SV PCI Network Adapter E905 Silver,Easy migration to faster networks as current 10/100 Mbps networks move to gigabit,22,Southridge Video,Southridge Video,1,Economy,7,Silver,,,21.41,41.99
 944,A. Datum Compact Digital Camera M200 Black,"Digital camera, 3.7 in x 0.9 in x 2",23,A. Datum Corporation,A. Datum,1,Economy,2,Black,18.5  x 4.5  x 16.3  ,35,59.32,129
-945,A. Datum Rangefinder Digital Camera X200 Black,"Digital camera – compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,2,Black,15 x 15.7 x 8.7,18,66.26,200
+945,A. Datum Rangefinder Digital Camera X200 Black,"Digital camera Â– compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,2,Black,15 x 15.7 x 8.7,18,66.26,200
 946,A. Datum Slim Digital Camera M180 Black,"Digital camera-compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,2,Black,4.3 x 2.5 x 1.2,5.1,68.06,148
 947,A. Datum Ultra Compact Digital Camera M190 Black,"10.2in x 3 in x 15.3in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,2,Black,4.35 x 2.5 x 1.29 ,5,75.88,165
 948,A. Datum All in One Digital Camera M200 Black,"Digital camera, Product Type Digital camera - compact, Dimensions. 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,2,Black,4.2 x 2.3 x 1.2  ,5,86.45,188
@@ -958,7 +958,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 957,A. Datum Full Frame Digital Camera X300 Black,"Digital camera, digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,2,Black,3.7 x 1 x 2.4,5.3,76.53,231
 958,A. Datum Compact Digital Camera M200 Grey,Digital camera .3.7 in x 0.9 in x 2,23,A. Datum Corporation,A. Datum,1,Economy,11,Grey,3.7 x 1 x 2.5,4.9,59.32,129
 959,A. Datum Rangefinder Digital Camera X200 Grey,"Digital camera - compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,11,Grey,3.7 x 1 x 2.6,5.2,66.26,200
-960,A. Datum Slim Digital Camera M180 Grey,"Digital camera – compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,11,Grey,3.9 x 1 x 2.4,5.3,68.06,148
+960,A. Datum Slim Digital Camera M180 Grey,"Digital camera Â– compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,11,Grey,3.9 x 1 x 2.4,5.3,68.06,148
 961,A. Datum Ultra Compact Digital Camera M190 Grey,"10.2 In x 3 in x 15.3 in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,11,Grey,3.7 x 1.1 x 2.4,4.95,75.88,165
 962,A. Datum All in One Digital Camera M200 Grey,"Digital camera, product type digital camera - compact, dimensions, 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,11,Grey,3.9 x 1 x 2.4,5,86.45,188
 963,A. Datum Interchangeable lens Non-SLR Digital Camera X250 Grey,"Digital camera, product type digital camera - compact, dimensions 3.5 in x 1 in x 2.3 in",23,A. Datum Corporation,A. Datum,2,Regular,11,Grey,3.9 x 1 x 2.5,5,88.79,268
@@ -972,7 +972,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 971,A. Datum Full Frame Digital Camera X300 Grey,"Digital camera, digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,11,Grey,3.6 x 1 x 2.6,4.5,76.53,231
 972,A. Datum Compact Digital Camera M200 Pink,Digital camera .3.7 in x 0.9 in x 2,23,A. Datum Corporation,A. Datum,1,Economy,10,Pink,3.9 x 1.1 x 2.4,5.1,59.32,129
 973,A. Datum Rangefinder Digital Camera X200 Pink,"Digital camera - compact .3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,10,Pink,3.7 x 1 x 2.4,5.6,66.26,200
-974,A. Datum Slim Digital Camera M180 Pink,"Digital camera – compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,10,Pink,3.9 x 0.95 x 2.5,5.3,68.06,148
+974,A. Datum Slim Digital Camera M180 Pink,"Digital camera Â– compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,10,Pink,3.9 x 0.95 x 2.5,5.3,68.06,148
 975,A. Datum Ultra Compact Digital Camera M190 Pink,"10.2 In x 3 in x 15.3 in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,10,Pink,3.9 x 1.1 x 2.4,5.05,75.88,165
 976,A. Datum All in One Digital Camera M200 Pink,"Digital camera, product type digital camera - compact, dimensions, 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,10,Pink,4.8  x 7.8  x 1.7 ,3.9,86.45,188
 977,A. Datum Interchangeable lens Non-SLR Digital Camera X250 Pink,"Digital camera, product type digital camera - compact, dimensions 3.5 in x 1 in x 2.3 in",23,A. Datum Corporation,A. Datum,2,Regular,10,Pink,3.8 x 2.3 x 1.1,4.85,88.79,268
@@ -985,8 +985,8 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 984,A. Datum Point Shoot Digital Camera M500 Pink,"gital Camera, Digital camera - compact, 3.7 in x 0.9 in x 2 in, weight 4.4 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,10,Pink,3.8 x 0.9 x 2.4,4.65,91.05,198
 985,A. Datum Full Frame Digital Camera X300 Pink,"Digital Camera, Digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,10,Pink,3.5 x 0.9 x 2.4,4.8,76.53,231
 986,A. Datum Compact Digital Camera M200 Silver,"Digital camera, 3.7 in x 0.9 in x 2",23,A. Datum Corporation,A. Datum,1,Economy,7,Silver,3.8 x 0.9 x 2.4,4.9,59.32,129
-987,A. Datum Rangefinder Digital Camera X200 Silver,"Digital camera – compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,7,Silver,3.7 x 1 x 2.4,4.75,66.26,200
-988,A. Datum Slim Digital Camera M180 Silver,"Digital camera – compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,7,Silver,3.7 x 1 x 2.5,4.68,68.06,148
+987,A. Datum Rangefinder Digital Camera X200 Silver,"Digital camera Â– compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,7,Silver,3.7 x 1 x 2.4,4.75,66.26,200
+988,A. Datum Slim Digital Camera M180 Silver,"Digital camera Â– compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,7,Silver,3.7 x 1 x 2.5,4.68,68.06,148
 989,A. Datum Ultra Compact Digital Camera M190 Silver,"10.2 In x 3 in x 15.3 in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,7,Silver,3.7 x 1 x 2.6,4.95,75.88,165
 990,A. Datum All in One Digital Camera M200 Silver,"Digital camera, product type digital camera - compact, dimensions, 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,7,Silver,3.9 x 1 x 2.4,5.1,86.45,188
 991,A. Datum Interchangeable lens Non-SLR Digital Camera X250 Silver,"Digital camera, Product type digital camera - compact, dimensions 3.5 in x 1 in x 2.3 in",23,A. Datum Corporation,A. Datum,2,Regular,7,Silver,3.7 x 1.1 x 2.4,4.9,88.79,268
@@ -999,8 +999,8 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 998,A. Datum Point Shoot Digital Camera M500 Silver,"gital camera, digital camera - compact, 3.7 in x 0.9 in x 2 in, weight 4.4 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,7,Silver,3.7 x 1 x 2.4,5.6,91.05,198
 999,A. Datum Full Frame Digital Camera X300 Silver,"Digital camera, digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,7,Silver,3.9 x 0.95 x 2.5,5.9,76.53,231
 1000,A. Datum Compact Digital Camera M200 Orange,"Digital camera, 3.7 in x 0.9 in x 2",23,A. Datum Corporation,A. Datum,1,Economy,9,Orange,3.9 x 1.1 x 2.4,6.1,59.32,129
-1001,A. Datum Rangefinder Digital Camera X200 Orange,"Digital camera – compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,9,Orange,4.8  x 7.8  x 1.7 ,5.25,66.26,200
-1002,A. Datum Slim Digital Camera M180 Orange,"Digital camera – compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,9,Orange,3.8 x 2.3 x 1.1,4.9,68.06,148
+1001,A. Datum Rangefinder Digital Camera X200 Orange,"Digital camera Â– compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,9,Orange,4.8  x 7.8  x 1.7 ,5.25,66.26,200
+1002,A. Datum Slim Digital Camera M180 Orange,"Digital camera Â– compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,9,Orange,3.8 x 2.3 x 1.1,4.9,68.06,148
 1003,A. Datum Ultra Compact Digital Camera M190 Orange,"10.2 In x 3 in x 15.3 in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,9,Orange,4.2 x 2.3 x 1.2  ,4.6,75.88,165
 1004,A. Datum All in One Digital Camera M200 Orange,"Digital camera, product type digital camera - compact, dimensions, 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,9,Orange,3.4 x 0.9 x 2.2  ,5.1,86.45,188
 1005,A. Datum Interchangeable lens Non-SLR Digital Camera X250 Orange,"Digital camera, product type digital camera - compact, dimensions 3.5 in x 1 in x 2.3 in",23,A. Datum Corporation,A. Datum,2,Regular,9,Orange,3.4 x 1.1 x 2.2,4.6,88.79,268
@@ -1014,7 +1014,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1013,A. Datum Full Frame Digital Camera X300 Orange,"Digital camera, digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,9,Orange,3.9 x 1.1 x 2.4,4.9,76.53,231
 1014,A. Datum Compact Digital Camera M200 Green,Digital camera .3.7 in x 0.9 in x 2,23,A. Datum Corporation,A. Datum,1,Economy,14,Green,4.8  x 7.8  x 1.7 ,5.2,59.32,129
 1015,A. Datum Rangefinder Digital Camera X200 Green,"Digital camera - compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,14,Green,3.8 x 2.3 x 1.1,5.3,66.26,200
-1016,A. Datum Slim Digital Camera M180 Green,"Digital camera – compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,14,Green,4.2 x 2.3 x 1.2  ,5.6,68.06,148
+1016,A. Datum Slim Digital Camera M180 Green,"Digital camera Â– compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,14,Green,4.2 x 2.3 x 1.2  ,5.6,68.06,148
 1017,A. Datum Ultra Compact Digital Camera M190 Green,"10.2 In x 3 in x 15.3 in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,14,Green,3.5 x 0.9 x 2.2,6,75.88,165
 1018,A. Datum All in One Digital Camera M200 Green,"Digital camera, product type digital camera - compact, dimensions, 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,14,Green,3.6 x 1x 2.2,5.25,86.45,188
 1019,A. Datum Interchangeable lens Non-SLR Digital Camera X250 Green,"Digital camera, product type digital camera - compact, dimensions 3.5 in x 1 in x 2.3 in",23,A. Datum Corporation,A. Datum,2,Regular,14,Green,3.5 x 0.9 x 2.4,5.65,88.79,268
@@ -1027,8 +1027,8 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1026,A. Datum Point Shoot Digital Camera M500 Green,"gital camera, digital camera - compact, 3.7 in x 0.9 in x 2 in, weight 4.4 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,14,Green,3.9 x 1 x 2.4,5.9,91.05,198
 1027,A. Datum Full Frame Digital Camera X300 Green,"Digital camera, digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,14,Green,3.7 x 1.1 x 2.4,6,76.53,231
 1028,A. Datum Compact Digital Camera M200 Azure,"Digital camera, 3.7 in x 0.9 in x 2",23,A. Datum Corporation,A. Datum,1,Economy,1,Azure,3.9 x 1 x 2.4,4.1,59.32,129
-1029,A. Datum Rangefinder Digital Camera X200 Azure,"Digital camera – compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,3.9 x 1 x 2.5,22,66.26,200
-1030,A. Datum Slim Digital Camera M180 Azure,"Digital camera – compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,1,Azure,4.1 x 2.4 x 1.1,6.1,68.06,148
+1029,A. Datum Rangefinder Digital Camera X200 Azure,"Digital camera Â– compact, 3.7 in x 0.9 in x 2 in, 4.4 oz",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,3.9 x 1 x 2.5,22,66.26,200
+1030,A. Datum Slim Digital Camera M180 Azure,"Digital camera Â– compact, 3.7 in x 0.9 in x 2.3",23,A. Datum Corporation,A. Datum,1,Economy,1,Azure,4.1 x 2.4 x 1.1,6.1,68.06,148
 1031,A. Datum Ultra Compact Digital Camera M190 Azure,"10.2 In x 3 in x 15.3 in, 2.2 lbs",23,A. Datum Corporation,A. Datum,1,Economy,1,Azure,3.75 x 1 x 2.5,4.9,75.88,165
 1032,A. Datum All in One Digital Camera M200 Azure,"Digital camera, product type digital camera - compact, dimensions, 3.7 in x 0.9 in x 2.3 in, weight 5.5 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,3.6 x 1 x 2.6,4.9,86.45,188
 1033,A. Datum Interchangeable lens Non-SLR Digital Camera X250 Azure,"Digital camera, product type digital camera - compact, dimensions 3.5 in x 1 in x 2.3 in",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,3.9 x 1.1 x 2.4,5.2,88.79,268
@@ -1040,7 +1040,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1039,A. Datum SLR-like Digital Camera M400 Azure,"Digital camera, product type digital camera - compact, dimensions 4.7 in x 3.5 in x 3 in, weight 13 oz",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,3.9 x 0.95 x 2.5,5.25,90.55,196.9
 1040,A. Datum Point n' Shoot Digital Camera M500 Azure,"gital camera, digital camera - compact, 3.7 in x 0.9 in x 2 in, weight 4.4 oz  ",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,3.9 x 1.1 x 2.4,5.5,91.05,198
 1041,A. Datum Full Frame Digital Camera X300 Azure,"Digital camera, digital camera - compact, 3.9 in x 0.8 in x 2.3 in, weight 4.8 oz",23,A. Datum Corporation,A. Datum,2,Regular,1,Azure,4.8  x 7.8  x 1.7 ,5.25,76.53,231
-1042,A. Datum Point Shoot Digital Camera M500 Silver Grey,"Digital camera – compact, 3.8 in x 1 in x 2.2 in, 4.9 oz",23,A. Datum Corporation,A. Datum,2,Regular,12,Silver Grey,3.8 x 2.3 x 1.1,6.1,91.05,198
+1042,A. Datum Point Shoot Digital Camera M500 Silver Grey,"Digital camera Â– compact, 3.8 in x 1 in x 2.2 in, 4.9 oz",23,A. Datum Corporation,A. Datum,2,Regular,12,Silver Grey,3.8 x 2.3 x 1.1,6.1,91.05,198
 1043,A. Datum Full Frame Digital Camera X300 Silver Grey,"Optical zoom 2.7in LCD digital camera, 100kgf",23,A. Datum Corporation,A. Datum,2,Regular,12,Silver Grey,4.2 x 2.3 x 1.2  ,4.9,76.53,231
 1044,A. Datum SLR Camera X135 Black,On-screen autofocus with live view displays subjects in focus on the LCD the instant the shutter is pressed halfway,24,A. Datum Corporation,A. Datum,2,Regular,2,Black,8 x 10 x 6,5,207.74,627
 1045,"A. Datum SLR Camera 35"" X358 Black","Choice of data storage options - accepts compact flash type I & II, UDMA, micro drives, and XD-picture cards digital 14-42mm F3.5-5.6 lens",24,A. Datum Corporation,A. Datum,2,Regular,2,Black,3.4 x 4.6 x 3.3 ,4,194.82,588
@@ -1069,11 +1069,11 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1068,A. Datum SLR Camera X141 Blue,"Digital camera - SLR with live view mode, movie recording, 5.1 in x 2.4 in x 3.9 in, 16.9 oz",24,A. Datum Corporation,A. Datum,2,Regular,3,Blue,3.4 x 4.8 x 3.3 ,4.6,141.47,427
 1069,"A. Datum SLR Camera 35"" X358 Blue",Digital camera - SLR with live view mode,24,A. Datum Corporation,A. Datum,2,Regular,3,Blue,4 x 4 x 4 ,5.1,194.82,588
 1070,A. Datum SLR Camera M141 Blue,"Digital camera - SLR with live view mode, 5.1 in x 2.1 in x 3.6 in, 13.2 oz",24,A. Datum Corporation,A. Datum,1,Economy,3,Blue,4.2 x 4 x 4 ,4.6,143.48,312
-1071,"A. Datum SLR Camera 35"" M358 Blue","Digital camera – SLR, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,A. Datum Corporation,A. Datum,2,Regular,3,Blue,8 x 9 x 6 ,5.6,155.43,338
+1071,"A. Datum SLR Camera 35"" M358 Blue","Digital camera Â– SLR, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,A. Datum Corporation,A. Datum,2,Regular,3,Blue,8 x 9 x 6 ,5.6,155.43,338
 1072,A. Datum SLR Camera X142 Orange,Digital camera - SLR with live view mode,24,A. Datum Corporation,A. Datum,2,Regular,9,Orange,8 x 8 x 6.5,5.2,141.47,427
-1073,"A. Datum SLR Camera 35"" X358 Orange","Digital camera – SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,A. Datum Corporation,A. Datum,2,Regular,9,Orange,7.5 x 8 x 6.5,4.95,194.82,588
-1074,A. Datum SLR Camera M142 Orange,"Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,A. Datum Corporation,A. Datum,1,Economy,9,Orange,7 x 8 x 6.5,6,143.48,312
-1075,"A. Datum SLR Camera 35"" M358 Orange","Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,A. Datum Corporation,A. Datum,2,Regular,9,Orange,3.5  x 2  x 5  ,5,155.43,338
+1073,"A. Datum SLR Camera 35"" X358 Orange","Digital camera Â– SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,A. Datum Corporation,A. Datum,2,Regular,9,Orange,7.5 x 8 x 6.5,4.95,194.82,588
+1074,A. Datum SLR Camera M142 Orange,"Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,A. Datum Corporation,A. Datum,1,Economy,9,Orange,7 x 8 x 6.5,6,143.48,312
+1075,"A. Datum SLR Camera 35"" M358 Orange","Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,A. Datum Corporation,A. Datum,2,Regular,9,Orange,3.5  x 2  x 5  ,5,155.43,338
 1076,Contoso SLR Camera X142 Black,On-screen autofocus with live view displays subjects in focus on the LCD the instant the shutter is pressed halfway,24,"Contoso, Ltd",Contoso,3,Deluxe,2,Black,6.5  x 4.5  x 4.5  ,6.1,211.05,637
 1077,"Contoso SLR Camera 35"" X358 Black","Choice of data storage options -- accepts compact flash type I & II, UDMA, micro drives, and XD-picture cards digital 14-42mm F3.5-5.6 lens",24,"Contoso, Ltd",Contoso,2,Regular,2,Black,4  x 2.5  x 5.5  ,4.9,188.19,568
 1078,Contoso SLR Camera M142 Black,"SLR camera, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,"Contoso, Ltd",Contoso,1,Economy,2,Black,2.6  x 5.4  x 2.8 ,4.9,144.4,314
@@ -1101,11 +1101,11 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1100,Contoso SLR Camera X145 Blue,"Digital camera - SLR with live view mode, movie recording, 5.1 in x 2.4 in x 3.9 in, 16.9 oz",24,"Contoso, Ltd",Contoso,3,Deluxe,3,Blue,4.8  x 7.8  x 1.7 ,5.9,209.39,632
 1101,"Contoso SLR Camera 35"" X358 Blue",Digital camera - SLR with live view mode,24,"Contoso, Ltd",Contoso,2,Regular,3,Blue,3.45 x 4.8 x 3.3 ,6.1,188.19,568
 1102,Contoso SLR Camera M145 Blue,"Digital camera - SLR with live view mode, 5.1 in x 2.1 in x 3.6 in, 13.2 oz",24,"Contoso, Ltd",Contoso,2,Regular,3,Blue,3.5 x 5 x 3.3 ,5.25,157.73,343
-1103,"Contoso SLR Camera 35"" M358 Blue","Digital camera – SLR, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,"Contoso, Ltd",Contoso,2,Regular,3,Blue,3.5 x 5.5 x 3.3,4.9,164.63,358
+1103,"Contoso SLR Camera 35"" M358 Blue","Digital camera Â– SLR, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,"Contoso, Ltd",Contoso,2,Regular,3,Blue,3.5 x 5.5 x 3.3,4.9,164.63,358
 1104,Contoso SLR Camera X146 Orange,Digital camera - SLR with live view mode,24,"Contoso, Ltd",Contoso,2,Regular,9,Orange,3.4 x 4.8 x 3.3 ,4.6,141.47,427
-1105,"Contoso SLR Camera 35"" X358 Orange","Digital camera – SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,"Contoso, Ltd",Contoso,2,Regular,9,Orange,4 x 4 x 4 ,5.1,188.19,568
-1106,Contoso SLR Camera M146 Orange,"Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Contoso, Ltd",Contoso,1,Economy,9,Orange,4.2 x 4 x 4 ,4.6,148.08,322
-1107,"Contoso SLR Camera 35"" M358 Orange","Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Contoso, Ltd",Contoso,2,Regular,9,Orange,8 x 9 x 6 ,5.6,164.63,358
+1105,"Contoso SLR Camera 35"" X358 Orange","Digital camera Â– SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,"Contoso, Ltd",Contoso,2,Regular,9,Orange,4 x 4 x 4 ,5.1,188.19,568
+1106,Contoso SLR Camera M146 Orange,"Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Contoso, Ltd",Contoso,1,Economy,9,Orange,4.2 x 4 x 4 ,4.6,148.08,322
+1107,"Contoso SLR Camera 35"" M358 Orange","Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Contoso, Ltd",Contoso,2,Regular,9,Orange,8 x 9 x 6 ,5.6,164.63,358
 1108,Fabrikam SLR Camera X146 Black,On-screen autofocus with live view displays subjects in focus on the LCD the instant the shutter is pressed halfway,24,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,8 x 8 x 6.5,5.2,208.4,629
 1109,"Fabrikam SLR Camera 35"" X358 Black","Choice of data storage options - accepts compact flash type I & II, UDMA, Micro drives, and XD-picture cards digital 14-42mm F3.5-5.6 lens",24,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,7.5 x 8 x 6.5,4.95,144.52,436.2
 1110,Fabrikam SLR Camera M146 Black,"SLR camera, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,"Fabrikam, Inc.",Fabrikam,1,Economy,2,Black,7 x 8 x 6.5,6,138.88,302
@@ -1133,19 +1133,19 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1132,Fabrikam SLR Camera X149 Blue,"Digital camera - SLR with live view mode, movie recording, 5.1 in x 2.4 in x 3.9 in, 16.9 oz",24,"Fabrikam, Inc.",Fabrikam,2,Regular,3,Blue,2.6  x 5.4  x 2.8 ,5.1,207.74,627
 1133,"Fabrikam SLR Camera 35"" X358 Blue",Digital camera - SLR with live view mode,24,"Fabrikam, Inc.",Fabrikam,2,Regular,3,Blue,3  x 5  x 2.9  ,5.3,144.52,436.2
 1134,Fabrikam SLR Camera M149 Blue,"Digital camera - SLR with live view mode, 5.1 in x 2.1 in x 3.6 in, 13.2 oz",24,"Fabrikam, Inc.",Fabrikam,1,Economy,3,Blue,8 x 10 x 6,5.4,146.7,319
-1135,"Fabrikam SLR Camera 35"" M358 Blue","Digital camera – SLR, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,"Fabrikam, Inc.",Fabrikam,1,Economy,3,Blue,3.4 x 4.6 x 3.3 ,5.6,150.84,328
+1135,"Fabrikam SLR Camera 35"" M358 Blue","Digital camera Â– SLR, 4.8 in x 2.7 in x 3.6 in, 1.1 lbs",24,"Fabrikam, Inc.",Fabrikam,1,Economy,3,Blue,3.4 x 4.6 x 3.3 ,5.6,150.84,328
 1136,Fabrikam SLR Camera X150 Orange,Digital camera - SLR with live view mode,24,"Fabrikam, Inc.",Fabrikam,2,Regular,9,Orange,4.8  x 7.8  x 1.7 ,5.9,159.2,480.5
-1137,"Fabrikam SLR Camera 35"" X358 Orange","Digital camera – SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,"Fabrikam, Inc.",Fabrikam,2,Regular,9,Orange,3.45 x 4.8 x 3.3 ,6.1,144.52,436.2
-1138,Fabrikam SLR Camera M150 Orange,"Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,2,Regular,9,Orange,3.5 x 5 x 3.3 ,5.25,180.22,391.9
-1139,"Fabrikam SLR Camera 35"" M358 Orange","Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,1,Economy,9,Orange,3.5 x 5.5 x 3.3,4.9,150.84,328
+1137,"Fabrikam SLR Camera 35"" X358 Orange","Digital camera Â– SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,"Fabrikam, Inc.",Fabrikam,2,Regular,9,Orange,3.45 x 4.8 x 3.3 ,6.1,144.52,436.2
+1138,Fabrikam SLR Camera M150 Orange,"Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,2,Regular,9,Orange,3.5 x 5 x 3.3 ,5.25,180.22,391.9
+1139,"Fabrikam SLR Camera 35"" M358 Orange","Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,1,Economy,9,Orange,3.5 x 5.5 x 3.3,4.9,150.84,328
 1140,Fabrikam SLR Camera X150 Green,Digital camera - SLR with live view mode,24,"Fabrikam, Inc.",Fabrikam,2,Regular,14,Green,3.4 x 4.8 x 3.3 ,4.6,159.2,480.5
-1141,"Fabrikam SLR Camera 35"" X358 Green","Digital camera – SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,"Fabrikam, Inc.",Fabrikam,2,Regular,14,Green,4 x 4 x 4 ,5.1,144.52,436.2
-1142,Fabrikam SLR Camera M150 Green,"Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,2,Regular,14,Green,4.2 x 4 x 4 ,4.6,180.22,391.9
-1143,"Fabrikam SLR Camera 35"" M358 Green","Digital camera – SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,1,Economy,14,Green,8 x 9 x 6 ,5.6,150.84,328
-1144,"Fabrikam Home and Vacation Moviemaker 1"" 25mm M400 Blue","720i or 720p high definition or standard definition, 4mm, 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,3,Blue,3.5  x 2.6  x 2  ,2.4,275.92,600
-1145,"Fabrikam Home and Vacation Moviemaker 1/2"" 3mm M300 Orange","720i or 720p high definition or standard definition, 4mm, 43’, 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,9,Orange,2.7 x 2.8 x 4.9,1.5,260.28,566
-1146,"Fabrikam Home and vacation moviemaker 1/3"" 8.5mm M200 Blue","720i or 720p high definition or standard definition, 4mm, 43’, 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,3,Blue,7.6 x 6.3 x 4.7,2.9,291.09,633
-1147,Fabrikam Home and vacation moviemaker 2/3'' 17mm M103 Black,"720i or 720p high definition or standard definition, 4mm, 43’, 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,2,Black,2.8  x 5.2  x 1.3 ,1.8,301.21,655
+1141,"Fabrikam SLR Camera 35"" X358 Green","Digital camera Â– SLR, 4.5 in x 2.5 in x 3.4 in, 1.2 lbs",24,"Fabrikam, Inc.",Fabrikam,2,Regular,14,Green,4 x 4 x 4 ,5.1,144.52,436.2
+1142,Fabrikam SLR Camera M150 Green,"Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,2,Regular,14,Green,4.2 x 4 x 4 ,4.6,180.22,391.9
+1143,"Fabrikam SLR Camera 35"" M358 Green","Digital camera Â– SLR, 5.2 in x 2.8 in x 3.7 in, 19.2 oz",24,"Fabrikam, Inc.",Fabrikam,1,Economy,14,Green,8 x 9 x 6 ,5.6,150.84,328
+1144,"Fabrikam Home and Vacation Moviemaker 1"" 25mm M400 Blue","720i or 720p high definition or standard definition, 4mm, 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,3,Blue,3.5  x 2.6  x 2  ,2.4,275.92,600
+1145,"Fabrikam Home and Vacation Moviemaker 1/2"" 3mm M300 Orange","720i or 720p high definition or standard definition, 4mm, 43Â’, 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,9,Orange,2.7 x 2.8 x 4.9,1.5,260.28,566
+1146,"Fabrikam Home and vacation moviemaker 1/3"" 8.5mm M200 Blue","720i or 720p high definition or standard definition, 4mm, 43Â’, 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,3,Blue,7.6 x 6.3 x 4.7,2.9,291.09,633
+1147,Fabrikam Home and vacation moviemaker 2/3'' 17mm M103 Black,"720i or 720p high definition or standard definition, 4mm, 43Â’, 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,2,Black,2.8  x 5.2  x 1.3 ,1.8,301.21,655
 1148,Fabrikam Budget Movie-Maker 1'' 25mm E400 Black,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,2,Black,5.5  x 5  x 1.7  ,2,215.15,422
 1149,Fabrikam Budget Movie-Maker 1/2'' 3mm E300 Black,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,2,Black,5.8  x 7.8  x 1.7 ,2.3,220.25,432
 1150,Fabrikam Budget Movie-Maker 1/3'' 8.5mm E200 Black,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,2,Black,3.5  x 3  x 2  ,2.4,209.54,411
@@ -1166,10 +1166,10 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1165,Fabrikam Social Videographer 1/2'' 3mm E300 Black,720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,2,Black,7.6 x 6.3 x 4.7,2.4,86.67,170
 1166,Fabrikam Social Videographer 1/3'' 8.5mm E200 Black,720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,2,Black,2.8  x 5.2  x 1.3 ,1.5,84.12,165
 1167,Fabrikam Social Videographer 2/3'' 17mm E100 Black,720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,2,Black,5  x 7.2  x 1.7 ,2.3,81.57,160
-1168,Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 White,"720i or 720p high definition or standard definition, 4mm,47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,7.8 x 7.8 x 3,2.5,275.92,600
-1169,Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 White,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,5.8  x 6.3  x 1.7 ,2.2,260.28,566
-1170,Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 White,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,2.75 x 2.8 x 4.9,1.5,291.09,633
-1171,Fabrikam Home and Vacation Moviemaker 2/3'' 17mm M103 White,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,6.6 x 6.3 x 4.7,2.9,301.21,655
+1168,Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 White,"720i or 720p high definition or standard definition, 4mm,47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,7.8 x 7.8 x 3,2.5,275.92,600
+1169,Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 White,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,5.8  x 6.3  x 1.7 ,2.2,260.28,566
+1170,Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 White,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,2.75 x 2.8 x 4.9,1.5,291.09,633
+1171,Fabrikam Home and Vacation Moviemaker 2/3'' 17mm M103 White,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,6.6 x 6.3 x 4.7,2.9,301.21,655
 1172,Fabrikam Budget Moviemaker 1'' 25mm E400 White,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,3 x 5.2  x 1.3 ,1.8,215.15,422
 1173,Fabrikam Budget Moviemaker 1/2'' 3mm E300 White,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,2.75 x 2.8 x 4.9,1.5,220.25,432
 1174,Fabrikam Budget Moviemaker 1/3'' 8.5mm E200 White,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,8,White,6.6 x 6.3 x 4.7,2.9,209.54,411
@@ -1190,10 +1190,10 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1189,"Fabrikam Social Videographer 1/2"" 3mm E300 Orange",720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,9,Orange,2.5 x 2.8 x 4.6,1.8,86.67,170
 1190,"Fabrikam Social Videographer 1/3"" 8.5mm E200 Orange",720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,9,Orange,7.6 x 6 x 4.7,2,84.12,165
 1191,"Fabrikam Social Videographer 2/3"" 17mm E100 Orange",720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,9,Orange,2.8  x 5  x 1.3 ,2.3,81.57,160
-1192,Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 Grey,"720i or 720p high definition or standard definition, 4mm, 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,4.5  x 5  x 1.7  ,2.4,275.92,600
-1193,Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 Grey,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,5  x 7.2  x 1.7 ,1.7,260.28,566
-1194,Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 Grey,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,7.8 x 7.8 x 3,2.5,291.09,633
-1195,Fabrikam Home and Vacation Moviemaker 2/3'' 17mm M103 Grey,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,5.8  x 6.3  x 1.7 ,1.8,301.21,655
+1192,Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 Grey,"720i or 720p high definition or standard definition, 4mm, 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,4.5  x 5  x 1.7  ,2.4,275.92,600
+1193,Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 Grey,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,5  x 7.2  x 1.7 ,1.7,260.28,566
+1194,Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 Grey,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,7.8 x 7.8 x 3,2.5,291.09,633
+1195,Fabrikam Home and Vacation Moviemaker 2/3'' 17mm M103 Grey,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,5.8  x 6.3  x 1.7 ,1.8,301.21,655
 1196,Fabrikam Budget Moviemaker 1'' 25mm E400 Grey,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,2.75 x 2.8 x 4.9,2,215.15,422
 1197,Fabrikam Budget Moviemaker 1/2'' 3mm E300 Grey,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,6.6 x 6.3 x 4.7,2.3,220.25,432
 1198,Fabrikam Budget Moviemaker 1/3'' 8.5mm E200 Grey,Standard definition,27,"Fabrikam, Inc.",Fabrikam  ,2,Regular,11,Grey,3 x 5.2  x 1.3 ,2.5,209.54,411
@@ -1214,10 +1214,10 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1213,Fabrikam Social Videographer 1/2'' 3mm E300 Grey,720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,11,Grey,7.8 x 7.8 x 3,2.4,86.67,170
 1214,Fabrikam Social Videographer 1/3'' 8.5mm E200 Grey,720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,11,Grey,5.8  x 6.3  x 1.7 ,1.7,84.12,165
 1215,Fabrikam Social Videographer 2/3'' 17mm E100 Grey,720p high definition or VGA,27,"Fabrikam, Inc.",Fabrikam  ,1,Economy,11,Grey,2.75 x 2.8 x 4.9,2.5,81.57,160
-1216,Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 Black,"720i or 720p high definition or standard definition, 4mm, 47.3º",27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,6.6 x 6.3 x 4.7,1.8,285.12,620
-1217,Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 Black,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,3 x 5.2  x 1.3 ,2,255.68,556
-1218,Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 Black,"720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,5.5  x 5  x 1.7  ,2.3,293.39,638
-1219,"Fabrikam Home and Vacation Moviemaker 2/3"" 17mm M103 Blue","720i or 720p high definition or standard definition, 4mm, 43', 47.3º",27,"Fabrikam, Inc.",Fabrikam,2,Regular,3,Blue,5.8  x 7.8  x 1.7 ,2.5,305.81,665
+1216,Fabrikam Home and Vacation Moviemaker 1'' 25mm M400 Black,"720i or 720p high definition or standard definition, 4mm, 47.3Âº",27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,6.6 x 6.3 x 4.7,1.8,285.12,620
+1217,Fabrikam Home and Vacation Moviemaker 1/2'' 3mm M300 Black,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,3 x 5.2  x 1.3 ,2,255.68,556
+1218,Fabrikam Home and Vacation Moviemaker 1/3'' 8.5mm M200 Black,"720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,5.5  x 5  x 1.7  ,2.3,293.39,638
+1219,"Fabrikam Home and Vacation Moviemaker 2/3"" 17mm M103 Blue","720i or 720p high definition or standard definition, 4mm, 43', 47.3Âº",27,"Fabrikam, Inc.",Fabrikam,2,Regular,3,Blue,5.8  x 7.8  x 1.7 ,2.5,305.81,665
 1220,Fabrikam Budget Moviemaker 1'' 25mm E400 Black,Standard definition,27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,3.5  x 2.6  x 2  ,2.2,230.44,452
 1221,Fabrikam Budget Moviemaker 1/2'' 3mm E300 Black,Standard definition,27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,2.7 x 2.8 x 4.9,1.5,245.74,482
 1222,Fabrikam Budget Moviemaker 1/3'' 8.5mm E200 Black,Standard definition,27,"Fabrikam, Inc.",Fabrikam,2,Regular,2,Black,7.6 x 6.3 x 4.7,2.9,219.74,431
@@ -1406,7 +1406,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1405,Contoso 2-Line Speakerphone M109 Grey,"Line speakerphone, conference call between an outside line and up to 2 handsets  ",29,"Contoso, Ltd",Contoso,2,Regular,11,Grey,3.5 x 9 x 4.5,1.7,16.55,35.99
 1406,Contoso Phone with Memory Dialing-single line E88 Grey,Memory for 100 contact entries,29,"Contoso, Ltd",Contoso,1,Economy,11,Grey,7.5 x 5 x 6.2,2.2,7.23,14.19
 1407,Contoso Phone with Memory Dialing-2 lines E90 Grey,"Memory for 100 contact entries, three-party conferencing, and each line can be set to its own distinct ringtone  ",29,"Contoso, Ltd",Contoso,1,Economy,11,Grey,5 x 5 x 6.3,2.7,8.16,16
-1408,"The Phone Company Touch Screen Phone 1600 TFT-2.2"" L200 Black","240×320, GSM/GPRS/EDGE 2.2''",31,The Phone Company,The Phone Company,3,Deluxe,2,Black,3.5 x 1.5 x 5.8,2,175.27,529
+1408,"The Phone Company Touch Screen Phone 1600 TFT-2.2"" L200 Black","240Ã—320, GSM/GPRS/EDGE 2.2''",31,The Phone Company,The Phone Company,3,Deluxe,2,Black,3.5 x 1.5 x 5.8,2,175.27,529
 1409,"The Phone Company Touch Screen Phone 1600 TFT-1.4"" L250 Black","GSM/GPRS/EDGE, 1.4''",31,The Phone Company,The Phone Company,3,Deluxe,2,Black,4 x 2 x 0.7,6,195.15,589
 1410,"The Phone Company Touch Screen Phones 26-2.2"" M200 Black","8 GB of storage provides approximately 1,750 songs, includes earphones, USB",31,The Phone Company,The Phone Company,2,Regular,2,Black,4.3 x 2.2 x 0.5,3,105.77,230
 1411,"The Phone Company Touch Screen Phones 26-1.4"" M250 Black","What's in the Box: handset, battery, charger, USB cable, mini-USB-to-3.5mm adapter, quick start guide",31,The Phone Company,The Phone Company,2,Regular,2,Black,2.1 x 4.1 x 0.5,3,123.24,268
@@ -1433,9 +1433,9 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1432,The Phone Company Touch Screen Phones Infrared M901 Grey,"Bluetooth stereo music, Micro SD expansion to 8 GB, access to personal email and instant messaging",31,The Phone Company,The Phone Company,2,Regular,11,Grey,9 x 2 x 7,8,137.96,300
 1433,The Phone Company Touch Screen Phones Capacitive M908 Grey,"Up to 5 hours of talk time, up to 240 hours (10 days) of standby time  ",31,The Phone Company,The Phone Company,2,Regular,11,Grey,8.5 x 6 x 2,1,141.64,308
 1434,The Phone Company Touch Screen Phones 4-Wire/ Built-in M205 Grey,"What's in the box: handset, battery, charger, user manual",31,The Phone Company,The Phone Company,2,Regular,11,Grey,111 x 51.5 x 14.5,1.2,123.24,268
-1435,The Phone Company Touch Screen Phones SAW/On-wall M806 Grey,"Up to 288 hours (12 days) of standby time, what’s in the box: handset, battery, charger, 1 GB Micro SD memory card, USB cable, wired stereo hands free headset, quick start guide",31,The Phone Company,The Phone Company,2,Regular,11,Grey,1.2 x 5.1 x 3.2,3,134.74,293
+1435,The Phone Company Touch Screen Phones SAW/On-wall M806 Grey,"Up to 288 hours (12 days) of standby time, whatÂ’s in the box: handset, battery, charger, 1 GB Micro SD memory card, USB cable, wired stereo hands free headset, quick start guide",31,The Phone Company,The Phone Company,2,Regular,11,Grey,1.2 x 5.1 x 3.2,3,134.74,293
 1436,The Phone Company Touch Screen Phones 5-Wire/On-wall M508 Grey,"Micro SD expansion to 16 GB, access to personal email and instant messaging",31,The Phone Company,The Phone Company,2,Regular,11,Grey,6 x 12.2 x 12.6,3,118.65,258
-1437,The Phone Company Finger Touch Screen Phones M30 Grey,"240×320, GSM/GPRS/EDGE 2.2''",31,The Phone Company,The Phone Company,1,Economy,11,Grey,4.3 x 2.4 x 0.5,2.6,91.51,199
+1437,The Phone Company Finger Touch Screen Phones M30 Grey,"240Ã—320, GSM/GPRS/EDGE 2.2''",31,The Phone Company,The Phone Company,1,Economy,11,Grey,4.3 x 2.4 x 0.5,2.6,91.51,199
 1438,The Phone Company Pen Touch Screen Phones M320 Grey,"GSM/GPRS/EDGE, 1.4''",31,The Phone Company,The Phone Company,2,Regular,11,Grey,4 x 2 x 0.7,3.9,133.36,290
 1439,The Phone Company Sharp Touch Screen Phones M910 Grey,"8 GB of storage provides approximately 1,750 songs, includes earphones, USB",31,The Phone Company,The Phone Company,2,Regular,11,Grey,4.3 x 2.2 x 0.5,6,138.42,301
 1440,The Phone Company Touch Screen Phones - CRT M11 Grey,"What's in the box: handset, battery, charger, USB cable, mini-USB-to-3.5mm adapter, quick start guide",31,The Phone Company,The Phone Company,1,Economy,11,Grey,4.3 x 2.4 x 0.5,4.7,86.91,189
@@ -1460,7 +1460,7 @@ ProductKey,ProductName,ProductDescription,ProductSubcategoryKey,Manufacturer,Bra
 1459,Contoso Touch Screen Phones 5-Wire/Built-in M500 Black,"Bluetooth stereo music, Micro SD expansion to 8 GB, access to personal email and instant messaging",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,0.6 x 2.8 x 4.6,5.6,117.73,256
 1460,Contoso Touch Screen Phones Infrared M901 Black,"Up to 5 hours of talk time, up to 240 hours (10 days) of standby time  ",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,4.5 x 2.6 x 0.6,4,137.96,300
 1461,Contoso Touch Screen Phones Capacitive M908 Black,"What's in the box: handset, battery, charger, user manual",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,8.8 x 6.2 x 2.8,6.9,141.64,308
-1462,Contoso Touch Screen Phones 4-Wire/ Built-in M205 Black,"Up to 288 hours (12 days) of standby time, what’s in the box: handset, battery, charger, 1 GB Micro SD memory card, USB cable, wired stereo hands free headset, quick start guide",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,4.5 x 3.1 x 0.6,4.6,123.24,268
+1462,Contoso Touch Screen Phones 4-Wire/ Built-in M205 Black,"Up to 288 hours (12 days) of standby time, whatÂ’s in the box: handset, battery, charger, 1 GB Micro SD memory card, USB cable, wired stereo hands free headset, quick start guide",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,4.5 x 3.1 x 0.6,4.6,123.24,268
 1463,Contoso Touch Screen Phones SAW/On-wall M806 Black,"Micro SD expansion to 16 GB, access to personal email and instant messaging",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,8.8 x 3.8 x 3.8,11.2,134.74,293
 1464,Contoso Touch Screen Phones 5-Wire/On-wall M508 Black,"Up to 5 hours of talk time, up to 240 hours (10 days) of standby time  ",31,"Contoso, Ltd",Contoso,2,Regular,2,Black,6 x 3 x 8,4.8,118.65,258
 1465,Contoso Finger Touch Screen Phones M30 Black,"What's in the Box: handset, battery, charger, and user manual",31,"Contoso, Ltd",Contoso,1,Economy,2,Black,10 x 7.2 x 1.7,12,91.51,199
