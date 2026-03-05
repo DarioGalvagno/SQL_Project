@@ -1,5 +1,3 @@
-streamlistreamlit
-duckdb
-pandast
+streamlit
 duckdb
 pandas
